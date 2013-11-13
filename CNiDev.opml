@@ -10,7 +10,7 @@
 			<outline text="破船之家" 
 				title="破船之家" type="rss"
 				htmlUrl="http://beyondvincent.com" 
-				xmlUrl="http://beyondvincent.com/feed/" />
+				xmlUrl="http://beyondvincent.com/atom.xml" />
 			<outline text="代码手工艺人" 
 				title="代码手工艺人" type="rss"
 				htmlUrl="http://www.joeyio.com" 
