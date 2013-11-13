@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>CNiDev</title>
+		<dateCreated>2013-11-13 12:34:52</dateCreated>
+		<ownerName>Lex Tang</ownerName>
+	</head>
+	<body>
+		<outline text="CNiDev" title="CNiDev">
+			<outline text="破船之家" 
+				title="破船之家" type="rss"
+				htmlUrl="http://beyondvincent.com" 
+				xmlUrl="http://beyondvincent.com/feed/" />
+			<outline text="代码手工艺人" 
+				title="代码手工艺人" type="rss"
+				htmlUrl="http://www.joeyio.com" 
+				xmlUrl="http://joeyio.com/rss.xml" />
+			<outline text="Luosky's Playground" 
+				title="Luosky's Playground" type="rss"
+				htmlUrl="http://luosky.com/" 
+				xmlUrl="http://luosky.com/feed/" />
+			<outline text="I'm Allen" 
+				title="I'm Allen" type="rss"
+				htmlUrl="http://imallen.com/" 
+				xmlUrl="http://www.imallen.com/atom.xml" />
+			<outline text="EasyMorse" 
+				title="EasyMorse" type="rss"
+				htmlUrl="http://www.easymorse.com" 
+				xmlUrl="http://www.easymorse.com/index.php/feed" />
+			<outline text="博客园_easonoutlook" 
+				title="博客园_easonoutlook" type="rss"
+				htmlUrl="http://www.cnblogs.com/easonoutlook/" 
+				xmlUrl="http://www.cnblogs.com/easonoutlook/rss/" />
+			<outline text="Nico" 
+				title="Nico" type="rss"
+				htmlUrl="http://www.taofengping.com" 
+				xmlUrl="http://www.taofengping.com/rss.xml" />
+			<outline text="博客园_biosli" 
+				title="博客园_biosli" type="rss"
+				htmlUrl="http://www.cnblogs.com/biosli/" 
+				xmlUrl="http://www.cnblogs.com/biosli/rss" />
+			<outline text="vclwei" 
+				title="vclwei" type="rss"
+				htmlUrl="http://vclwei.com/" 
+				xmlUrl="http://vclwei.com/posts.rss" />
+			<outline text="OneV's Den" 
+				title="OneV's Den" type="rss"
+				htmlUrl="http://onevcat.com/" 
+				xmlUrl="http://www.onevcat.com/atom.xml" />
+			<outline text="DLog" 
+				title="DLog" type="rss"
+				htmlUrl="http://dlog.dismory.com/" 
+				xmlUrl="http://dlog.dismory.com/atom.xml" />
+			<outline text="唐巧的技术博客" 
+				title="唐巧的技术博客" type="rss"
+				htmlUrl="http://blog.devtang.com/" 
+				xmlUrl="http://blog.devtang.com/atom.xml" />
+			<outline text="Lancy's Blog" 
+				title="Lancy's Blog" type="rss"
+				htmlUrl="http://gracelancy.com/" 
+				xmlUrl="http://gracelancy.com/atom.xml" />
+			<outline text="iWangKe.me" 
+				title="iWangKe.me" type="rss"
+				htmlUrl="http://www.iwangke.me/" 
+				xmlUrl="http://www.iwangke.me/atom.xml" />
+			<outline text="萧宸宇" 
+				title="萧宸宇" type="rss"
+				htmlUrl="http://iiiyu.com/" 
+				xmlUrl="http://www.iiiyu.com/atom.xml" />
+			<outline text="博客园_克伟的博客" 
+				title="博客园_克伟的博客" type="rss"
+				htmlUrl="http://www.cnblogs.com/wangkewei/" 
+				xmlUrl="http://www.cnblogs.com/wangkewei/rss" />
+			<outline text="LIANXU.me" 
+				title="LIANXU.me" type="rss"
+				htmlUrl="http://lianxu.me" 
+				xmlUrl="http://lianxu.me/feed/" />
+			<outline text="MacTalk-池建强的随想录" 
+				title="MacTalk-池建强的随想录" type="rss"
+				htmlUrl="http://macshuo.com" 
+				xmlUrl="http://macshuo.com/?feed=rss2" />
+			<outline text="会写代码的猪" 
+				title="会写代码的猪" type="rss"
+				htmlUrl="http://gaosboy.com/" 
+				xmlUrl="http://gaosboy.com/feed/" />
+			<outline text="RoCry's Blog" 
+				title="RoCry's Blog" type="rss"
+				htmlUrl="http://rocry.com/" 
+				xmlUrl="http://rocry.com/atom.xml" />
+			<outline text="余书懿" 
+				title="余书懿" type="rss"
+				htmlUrl="http://blog.csdn.net/ysy441088327" 
+				xmlUrl="http://blog.csdn.net/ysy441088327/rss/list" />
+			<outline text="Minroad - iOS开发小记" 
+				title="Minroad - iOS开发小记" type="rss"
+				htmlUrl="http://www.minroad.com" 
+				xmlUrl="http://www.minroad.com/?feed=rss2" />
+			<outline text="卢克" 
+				title="卢克" type="rss"
+				htmlUrl="http://geeklu.com/" 
+				xmlUrl="http://geeklu.com/feed/" />
+			<outline text="A Bite of Cocoa" 
+				title="A Bite of Cocoa" type="rss"
+				htmlUrl="http://lldong.github.com/" 
+				xmlUrl="http://lldong.github.io/atom.xml" />
+			<outline text="YIFEIYANG" 
+				title="YIFEIYANG" type="rss"
+				htmlUrl="http://www.yifeiyang.net" 
+				xmlUrl="http://www.yifeiyang.net/feed" />
+			<outline text="iPhone 开发技术" 
+				title="iPhone 开发技术" type="rss"
+				htmlUrl="http://iphone.ipsw.info/" 
+				xmlUrl="http://iphone.ipsw.info/atom.xml" />
+		</outline>
+	</body>
+</opml>
